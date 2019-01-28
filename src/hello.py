@@ -4,7 +4,7 @@ import utils
 
 @utils.benchmark
 def say_hi():
-    print("hello EXVIVO!")
+    print("hello ExVivo!")
 
 @utils.benchmark
 def say_bye():
