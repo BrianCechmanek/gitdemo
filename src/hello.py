@@ -1,7 +1,7 @@
 # prints hello
 
 def say_hi():
-    print("hello git!")
+    print("hello Git!")
 
 
 if __name__ == "__main__":
